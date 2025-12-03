@@ -1,4 +1,3 @@
-Day 3 Part 2:
 const file = "input.txt"
 fetch(file)
   .then((res) => res.text())
@@ -64,3 +63,4 @@ fetch(file)
 
    })
   .catch((e) => console.error(e));
+  
